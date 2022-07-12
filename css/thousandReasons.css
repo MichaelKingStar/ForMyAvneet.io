@@ -239,7 +239,8 @@ header {
     background-color: var(--clr-dark);
     margin-left: 2rem;
     margin-right: 2rem;
-    width: 50rem;
+    max-width: 50rem;
+    width: auto;
     text-align: left;
     box-shadow: var(--bs);
     border-radius: 16px;
@@ -259,7 +260,8 @@ header {
 .loveLetter__body {
     padding-top: 1rem;
     padding-left: 1rem;
-    width: 40rem;
+    max-width: 40rem;
+    width: auto;
     line-height: 1.6;
 }
 
@@ -278,7 +280,8 @@ header {
     margin-left: 2rem;
     margin-right: 2rem;
     margin-top: 5rem;
-    width: 50rem;
+    max-width: 50rem;
+    width: auto;
     text-align: left;
     box-shadow: var(--bs);
     border-radius: 16px;
@@ -299,7 +302,8 @@ header {
 .instructions__body {
     padding-top: 1rem;
     padding-left: 1rem;
-    width: 40rem;
+    max-width: 40rem;
+    width: auto;
     line-height: 1.6;
 }
 
@@ -319,7 +323,8 @@ header {
     margin-left: 2rem;
     margin-right: 2rem;
     margin-top: 5rem;
-    width: 50rem;
+    max-width: 50rem;
+    width: auto;
     text-align: left;
     box-shadow: var(--bs);
     margin-bottom: 3rem;
@@ -358,7 +363,8 @@ header {
 .quote__body {
     padding-top: 1rem;
     padding-left: 1rem;
-    width: 40rem;
+    max-width: 40rem;
+    width: auto;
     line-height: 1.6;
 }
 
@@ -366,7 +372,8 @@ header {
     padding-top: 1rem;
     padding-left: 1rem;
     padding-bottom: 1rem;
-    width: 40rem;
+    max-width: 40rem;
+    width: auto;
     line-height: 1.6;
     border: solid;
     border-radius: 16px;
