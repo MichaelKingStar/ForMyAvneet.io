@@ -896,6 +896,409 @@ function newQuote() {
         document.getElementById('quoteDisplay').innerHTML = quote0171;
         document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote1.mp3');
     }
+
+    if (randomNumber == 171) {
+        document.getElementById('quoteDisplay').innerHTML = quote0172;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote172.mp3');
+    }
+
+    if (randomNumber == 172) {
+        document.getElementById('quoteDisplay').innerHTML = quote0173;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote173.mp3');
+    }
+
+    if (randomNumber == 173) {
+        document.getElementById('quoteDisplay').innerHTML = quote0174;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote174.mp3');
+    }
+
+    if (randomNumber == 174) {
+        document.getElementById('quoteDisplay').innerHTML = quote0175;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote175.mp3');
+    }
+
+    if (randomNumber == 175) {
+        document.getElementById('quoteDisplay').innerHTML = quote0176;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote176.mp3');
+    }
+
+    if (randomNumber == 176) {
+        document.getElementById('quoteDisplay').innerHTML = quote0177;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote177.mp3');
+    }
+
+    if (randomNumber == 177) {
+        document.getElementById('quoteDisplay').innerHTML = quote0178;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote178.mp3');
+    }
+
+    if (randomNumber == 178) {
+        document.getElementById('quoteDisplay').innerHTML = quote0179;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote179.mp3');
+    }
+
+    if (randomNumber == 179) {
+        document.getElementById('quoteDisplay').innerHTML = quote0180;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote180.mp3');
+    }
+
+    if (randomNumber == 180) {
+        document.getElementById('quoteDisplay').innerHTML = quote0181;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote181.mp3');
+    }
+
+    if (randomNumber == 181) {
+        document.getElementById('quoteDisplay').innerHTML = quote0182;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote182.mp3');
+    }
+
+    if (randomNumber == 182) {
+        document.getElementById('quoteDisplay').innerHTML = quote0183;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote183.mp3');
+    }
+
+    if (randomNumber == 183) {
+        document.getElementById('quoteDisplay').innerHTML = quote0184;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote184.mp3');
+    }
+
+    if (randomNumber == 184) {
+        document.getElementById('quoteDisplay').innerHTML = quote0185;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote185.mp3');
+    }
+
+    if (randomNumber == 185) {
+        document.getElementById('quoteDisplay').innerHTML = quote0186;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote186.mp3');
+    }
+
+    if (randomNumber == 186) {
+        document.getElementById('quoteDisplay').innerHTML = quote0187;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote187.mp3');
+    }
+
+    if (randomNumber == 187) {
+        document.getElementById('quoteDisplay').innerHTML = quote0188;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote188.mp3');
+    }
+
+    if (randomNumber == 188) {
+        document.getElementById('quoteDisplay').innerHTML = quote0189;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote189.mp3');
+    }
+
+    if (randomNumber == 189) {
+        document.getElementById('quoteDisplay').innerHTML = quote0190;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote190.mp3');
+    }
+
+    if (randomNumber == 190) {
+        document.getElementById('quoteDisplay').innerHTML = quote0191;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote191.mp3');
+    }
+
+    if (randomNumber == 191) {
+        document.getElementById('quoteDisplay').innerHTML = quote0192;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote192.mp3');
+    }
+
+    if (randomNumber == 192) {
+        document.getElementById('quoteDisplay').innerHTML = quote0193;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote193.mp3');
+    }
+
+    if (randomNumber == 193) {
+        document.getElementById('quoteDisplay').innerHTML = quote0194;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote194.mp3');
+    }
+
+    if (randomNumber == 194) {
+        document.getElementById('quoteDisplay').innerHTML = quote0195;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote195.mp3');
+    }
+
+    if (randomNumber == 195) {
+        document.getElementById('quoteDisplay').innerHTML = quote0196;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote196.mp3');
+    }
+
+    if (randomNumber == 196) {
+        document.getElementById('quoteDisplay').innerHTML = quote0197;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote197.mp3');
+    }
+
+    if (randomNumber == 197) {
+        document.getElementById('quoteDisplay').innerHTML = quote0198;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote198.mp3');
+    }
+
+    if (randomNumber == 198) {
+        document.getElementById('quoteDisplay').innerHTML = quote0199;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote199.mp3');
+    }
+
+    if (randomNumber == 199) {
+        document.getElementById('quoteDisplay').innerHTML = quote0200;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote200.mp3');
+    }
+
+    if (randomNumber == 200) {
+        document.getElementById('quoteDisplay').innerHTML = quote0201;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote201.mp3');
+    }
+
+    if (randomNumber == 201) {
+        document.getElementById('quoteDisplay').innerHTML = quote0202;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote202.mp3');
+    }
+
+    if (randomNumber == 202) {
+        document.getElementById('quoteDisplay').innerHTML = quote0203;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote203.mp3');
+    }
+
+    if (randomNumber == 203) {
+        document.getElementById('quoteDisplay').innerHTML = quote0204;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote204.mp3');
+    }
+
+    if (randomNumber == 204) {
+        document.getElementById('quoteDisplay').innerHTML = quote0205;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote205.mp3');
+    }
+
+    if (randomNumber == 205) {
+        document.getElementById('quoteDisplay').innerHTML = quote0206;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote206.mp3');
+    }
+
+    if (randomNumber == 206) {
+        document.getElementById('quoteDisplay').innerHTML = quote0207;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote207.mp3');
+    }
+
+    if (randomNumber == 207) {
+        document.getElementById('quoteDisplay').innerHTML = quote0208;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote208.mp3');
+    }
+
+    if (randomNumber == 208) {
+        document.getElementById('quoteDisplay').innerHTML = quote0209;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote209.mp3');
+    }
+
+    if (randomNumber == 209) {
+        document.getElementById('quoteDisplay').innerHTML = quote0210;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote210.mp3');
+    }
+
+    if (randomNumber == 210) {
+        document.getElementById('quoteDisplay').innerHTML = quote0211;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote211.mp3');
+    }
+
+    if (randomNumber == 211) {
+        document.getElementById('quoteDisplay').innerHTML = quote0212;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote212.mp3');
+    }
+
+    if (randomNumber == 212) {
+        document.getElementById('quoteDisplay').innerHTML = quote0213;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote213.mp3');
+    }
+
+    if (randomNumber == 213) {
+        document.getElementById('quoteDisplay').innerHTML = quote0214;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote214.mp3');
+    }
+
+    if (randomNumber == 214) {
+        document.getElementById('quoteDisplay').innerHTML = quote0215;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote215.mp3');
+    }
+
+    if (randomNumber == 215) {
+        document.getElementById('quoteDisplay').innerHTML = quote0216;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote216.mp3');
+    }
+
+    if (randomNumber == 216) {
+        document.getElementById('quoteDisplay').innerHTML = quote0217;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote217.mp3');
+    }
+
+    if (randomNumber == 217) {
+        document.getElementById('quoteDisplay').innerHTML = quote0218;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote218.mp3');
+    }
+
+    if (randomNumber == 218) {
+        document.getElementById('quoteDisplay').innerHTML = quote0219;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote219.mp3');
+    }
+
+    if (randomNumber == 219) {
+        document.getElementById('quoteDisplay').innerHTML = quote0220;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote220.mp3');
+    }
+
+    if (randomNumber == 220) {
+        document.getElementById('quoteDisplay').innerHTML = quote0221;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote221.mp3');
+    }
+
+    if (randomNumber == 221) {
+        document.getElementById('quoteDisplay').innerHTML = quote0222;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote222.mp3');
+    }
+
+    if (randomNumber == 222) {
+        document.getElementById('quoteDisplay').innerHTML = quote0223;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote223.mp3');
+    }
+
+    if (randomNumber == 223) {
+        document.getElementById('quoteDisplay').innerHTML = quote0224;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote224.mp3');
+    }
+
+    if (randomNumber == 224) {
+        document.getElementById('quoteDisplay').innerHTML = quote0225;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote225.mp3');
+    }
+
+    if (randomNumber == 225) {
+        document.getElementById('quoteDisplay').innerHTML = quote0226;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote226.mp3');
+    }
+
+    if (randomNumber == 226) {
+        document.getElementById('quoteDisplay').innerHTML = quote0227;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote227.mp3');
+    }
+
+    if (randomNumber == 227) {
+        document.getElementById('quoteDisplay').innerHTML = quote0228;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote228.mp3');
+    }
+
+    if (randomNumber == 228) {
+        document.getElementById('quoteDisplay').innerHTML = quote0229;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote229.mp3');
+    }
+
+    if (randomNumber == 229) {
+        document.getElementById('quoteDisplay').innerHTML = quote0230;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote230.mp3');
+    }
+
+    if (randomNumber == 230) {
+        document.getElementById('quoteDisplay').innerHTML = quote0231;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote231.mp3');
+    }
+
+    if (randomNumber == 231) {
+        document.getElementById('quoteDisplay').innerHTML = quote0232;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote232.mp3');
+    }
+
+    if (randomNumber == 232) {
+        document.getElementById('quoteDisplay').innerHTML = quote0233;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote233.mp3');
+    }
+
+    if (randomNumber == 233) {
+        document.getElementById('quoteDisplay').innerHTML = quote0234;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote234.mp3');
+    }
+
+    if (randomNumber == 234) {
+        document.getElementById('quoteDisplay').innerHTML = quote0235;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote235.mp3');
+    }
+
+    if (randomNumber == 235) {
+        document.getElementById('quoteDisplay').innerHTML = quote0236;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote236.mp3');
+    }
+
+    if (randomNumber == 236) {
+        document.getElementById('quoteDisplay').innerHTML = quote0237;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote237.mp3');
+    }
+
+    if (randomNumber == 237) {
+        document.getElementById('quoteDisplay').innerHTML = quote0238;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote238.mp3');
+    }
+
+    if (randomNumber == 238) {
+        document.getElementById('quoteDisplay').innerHTML = quote0239;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote239.mp3');
+    }
+
+    if (randomNumber == 239) {
+        document.getElementById('quoteDisplay').innerHTML = quote0240;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote240.mp3');
+    }
+
+    if (randomNumber == 240) {
+        document.getElementById('quoteDisplay').innerHTML = quote0241;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote241.mp3');
+    }
+
+    if (randomNumber == 241) {
+        document.getElementById('quoteDisplay').innerHTML = quote0242;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote242.mp3');
+    }
+
+    if (randomNumber == 242) {
+        document.getElementById('quoteDisplay').innerHTML = quote0243;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote243.mp3');
+    }
+
+    if (randomNumber == 243) {
+        document.getElementById('quoteDisplay').innerHTML = quote0244;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote244.mp3');
+    }
+
+    if (randomNumber == 244) {
+        document.getElementById('quoteDisplay').innerHTML = quote0245;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote245.mp3');
+    }
+
+    if (randomNumber == 245) {
+        document.getElementById('quoteDisplay').innerHTML = quote0246;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote246.mp3');
+    }
+
+    if (randomNumber == 246) {
+        document.getElementById('quoteDisplay').innerHTML = quote0247;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote247.mp3');
+    }
+
+    if (randomNumber == 247) {
+        document.getElementById('quoteDisplay').innerHTML = quote0248;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote248.mp3');
+    }
+
+    if (randomNumber == 248) {
+        document.getElementById('quoteDisplay').innerHTML = quote0249;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote249.mp3');
+    }
+
+    if (randomNumber == 249) {
+        document.getElementById('quoteDisplay').innerHTML = quote0250;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote250.mp3');
+    }
+    if (randomNumber == ) {
+        document.getElementById('quoteDisplay').innerHTML = quote0;
+        document.getElementById("audioPlayer").setAttribute('src', 'audio/voiceQuote/quote.mp3');
+    }
+    else {
+        console.log("Random number is either too high or something went wrong");
+        document.getElementById('quoteButton').innerHTML = "Please try again :)";
+    }
 }
 
 

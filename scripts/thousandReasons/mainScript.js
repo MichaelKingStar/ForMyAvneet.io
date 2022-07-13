@@ -18,11 +18,10 @@ navLinks.forEach(link => {
 
 // BUTTON SCRIPT
 
+// Set this number to the amount of things it can change to
 var numberOfTexts = 7;
 
-const quoteButton2 = document.querySelector('#quoteButton');
-
-quoteButton2.addEventListener("click", newButtonText);
+quoteButton.addEventListener("click", newButtonText);
 
 function newButtonText() {
     var randomNumber2 = Math.floor(Math.random() * (numberOfTexts));

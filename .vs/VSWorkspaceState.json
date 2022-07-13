@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\scripts",
+    "\\scripts\\thousandReasons"
   ],
+  "SelectedNode": "\\css\\thousandReasons.css",
   "PreviewInSolutionExplorer": false
 }
