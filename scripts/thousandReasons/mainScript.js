@@ -18,7 +18,7 @@ navLinks.forEach(link => {
 
 // BUTTON SCRIPT
 
-// Set this number to the amount of things it can change to
+// Set this number to the amount of things button text can change to
 var numberOfTexts = 7;
 
 quoteButton.addEventListener("click", newButtonText);

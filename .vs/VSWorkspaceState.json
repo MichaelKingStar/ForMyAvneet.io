@@ -3,8 +3,9 @@
     "",
     "\\css",
     "\\scripts",
-    "\\scripts\\thousandReasons"
+    "\\scripts\\thousandReasons",
+    "\\scripts\\thousandReasons\\quoteScripts"
   ],
-  "SelectedNode": "\\css\\thousandReasons.css",
+  "SelectedNode": "\\scripts\\thousandReasons\\quoteScripts\\quoteScript.js",
   "PreviewInSolutionExplorer": false
 }

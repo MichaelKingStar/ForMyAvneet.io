@@ -150,4 +150,16 @@ var quote0070 = "It honestly feels like every time I do something for you, it me
 
 var quote0071 = "There's so many times I just feel so lucky to have you by my side, cause there's some days it feels like I can't deal with stuff on my own. I feel so good having you by my side darling";
 
-var quote0072 = "";
+var quote0072 = "I think it's funny how most of my bad dad jokes makes you laugh for how stupid they are, I really love innocent moments like that which we have to share together darling";
+
+var quote0073 = "";
+
+var quote0074 = "";
+
+var quote0075 = "";
+
+var quote0076 = "";
+
+var quote0077 = "";
+
+var quote0078 = "";
